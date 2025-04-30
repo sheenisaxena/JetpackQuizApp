@@ -5,6 +5,6 @@ This app includes below tech stack:
 - Retrofit for api calling
 - Jetpack compose for android UI
 - Jetpack Navigation
-![Home Screen](screenshots/homescreen.png)
-![Question Screen](screenshots/questionscreen.png)
+![Home Screen](screenshots/homescreen.PNG)
+![Question Screen](screenshots/questionscreen.PNG)
 
