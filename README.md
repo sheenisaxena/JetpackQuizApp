@@ -10,4 +10,6 @@ This app includes below tech stack:
 
 ![Home Screen](screenshots/homescreen.PNG)
 ![Question Screen](screenshots/questionscreen.PNG)
+![App Demo](screenshots/quizdemo.gif)
+
 
