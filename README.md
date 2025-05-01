@@ -5,6 +5,8 @@ This app includes below tech stack:
 - Retrofit for api calling
 - Jetpack compose for android UI
 - Jetpack Navigation
+- Hilt based DI
+- Clean MVVM architecture
 
 ![Home Screen](screenshots/homescreen.PNG)
 ![Question Screen](screenshots/questionscreen.PNG)
